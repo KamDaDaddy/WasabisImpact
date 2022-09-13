@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{9D891A92-2CBD-9228-D45B-F40BD5A4F738}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Physics.cs">
+    <Files>
+      <File FileName="Assets/Script/Physics.cs" Line="16" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Better Honkai" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="df4ac3b3-1820-4a1f-ae58-01e86d73aeeb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
