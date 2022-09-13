@@ -65,6 +65,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\Physics.cs" />
+    <None Include="Assets\Course Library\_Source_Files\_LICENSE.txt" />
     <Reference Include="UnityEngine.Purchasing">
       <HintPath>/Users/game3/Desktop/Create with Code/Better Honkai/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
     </Reference>
