@@ -53,7 +53,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\PlayerController.cs" />
      <Compile Include="Assets\Script\PlayerController.cs" />
      <None Include="Assets\Course Library\_Source_Files\_LICENSE.txt" />
  <Reference Include="UnityEngine.Purchasing">
