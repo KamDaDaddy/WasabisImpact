@@ -1,6 +1,7 @@
 ﻿<Properties StartupConfiguration="{9D891A92-2CBD-9228-D45B-F40BD5A4F738}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/PlayerController.cs">
     <Files>
+      <File FileName="Assets/Script/FollowPlayer.cs" Line="1" Column="1" />
       <File FileName="Assets/Script/PlayerController.cs" Line="1" Column="1" />
     </Files>
     <Pads>
@@ -9,7 +10,7 @@
           <Node name="Better Honkai" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Script" expanded="True">
-                <Node name="PlayerController.cs" selected="True" />
+                <Node name="FollowPlayer.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -19,7 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a081eb43-34da-444b-88c3-7bc3fa4a8701" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4692e296-8286-4afa-8acc-cd7465c61ad4" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
