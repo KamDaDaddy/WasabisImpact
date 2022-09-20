@@ -6,7 +6,7 @@ public class VehicleSpawner : MonoBehaviour
 {
     public GameObject Prefab;
     public float speed = 15;
-    int numCars = 3;
+    int numCars = 5;
     // Start is called before the first frame update
     void Start()
     {
